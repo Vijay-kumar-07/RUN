@@ -3,7 +3,7 @@ name: Fairy
 on:
   schedule:
   - cron: '0 12 * * *' # every day at noon
-  - cron: '0 14 * * *' #everyday at 2 pm
+  - cron: '0 20 * * *' #everyday at 2 pm
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
